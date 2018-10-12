@@ -1,1 +1,1 @@
-# The Golder Snitch Sniffer
+# The Golden Snitch Sniffer
